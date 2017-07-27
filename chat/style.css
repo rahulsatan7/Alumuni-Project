@@ -1,0 +1,52 @@
+@charset "utf-8";
+/* CSS Document */
+
+body
+{
+	background-image:url(a.jpg);
+	margin:0px;
+}
+#main
+{
+	width:60%;
+	height:350px;
+	margin:auto;
+	margin-top:200px;
+	background-color:red;
+	color:white;
+	font-family:Georgia, "Times New Roman", Times, serif;
+	font-size:30px;
+	border-radius:10px;
+}
+#text
+{
+	width:80%;
+	margin-left:10%;
+	height:80px;
+	font-size:36px
+}
+#btn
+{
+	width:40px;
+	height:40px;
+}
+#header
+{
+	width:100%;
+	background-color:black;
+	color:#030;
+	font-family:Georgia, "Times New Roman", Times, serif;
+	font-size:40px;
+	height:70px;
+}
+#msg
+{
+	width:90%;
+	height:450px;
+	background-color:white;
+	color:black;
+	font-size:16px;
+	font-family:Georgia, "Times New Roman", Times, serif;
+	margin:auto;
+	overflow:scroll;
+}
